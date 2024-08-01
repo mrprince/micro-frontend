@@ -15,6 +15,7 @@
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "wujie": "^1.0.22",
+    "wujie-polyfill": "^1.0.11",
     "wujie-react": "^1.0.22"
   },
   "devDependencies": {
